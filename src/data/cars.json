@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "price": 24000,
+    "year": 2021,
+    "contact": {
+      "dealer": "Toyota Dealership",
+      "number": "123-456-7890"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Honda Accord",
+    "price": 26000,
+    "year": 2022,
+    "contact": {
+      "dealer": "Honda Dealership",
+      "number": "234-567-8901"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "price": 36000,
+    "year": 2023,
+    "contact": {
+      "dealer": "Ford Dealership",
+      "number": "345-678-9012"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Chevrolet Malibu",
+    "price": 22000,
+    "year": 2021,
+    "contact": {
+      "dealer": "Chevrolet Dealership",
+      "number": "456-789-0123"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Tesla Model 3",
+    "price": 40000,
+    "year": 2023,
+    "contact": {
+      "dealer": "Tesla Dealership",
+      "number": "567-890-1234"
+    }
+  },
+  {
+    "id": 6,
+    "name": "BMW 3 Series",
+    "price": 45000,
+    "year": 2022,
+    "contact": {
+      "dealer": "BMW Dealership",
+      "number": "678-901-2345"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Audi A4",
+    "price": 42000,
+    "year": 2022,
+    "contact": {
+      "dealer": "Audi Dealership",
+      "number": "789-012-3456"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mercedes-Benz C-Class",
+    "price": 50000,
+    "year": 2023,
+    "contact": {
+      "dealer": "Mercedes-Benz Dealership",
+      "number": "890-123-4567"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Hyundai Sonata",
+    "price": 23000,
+    "year": 2021,
+    "contact": {
+      "dealer": "Hyundai Dealership",
+      "number": "901-234-5678"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Kia Optima",
+    "price": 25000,
+    "year": 2022,
+    "contact": {
+      "dealer": "Kia Dealership",
+      "number": "012-345-6789"
+    }
+  }
+]
